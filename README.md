@@ -1,6 +1,6 @@
-# shieldgame
+# Shieldgame
 ---
-
+## 역할: 게임 구현
 ## 게임실행시 떨어지는 네모 블록으로부터 밑에 큰 원을 보호하는 게임
 
 <img src = "https://github.com/Lee-Kyung-Sup/raincollectgame/assets/120997897/a36dc631-d10f-4ec1-9392-09d3530367ac" width = "300" height = "400"/>
